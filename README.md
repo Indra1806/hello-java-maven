@@ -54,7 +54,8 @@ hello-java-maven/
         └── java/
             └── com/
                 └── example/
-                    └── HelloWorld.java  # Main application source code
+                    └── HarvestorServiceTracker.class  # Main application source code
+                    └── HarvestorServiceTracker.java
 
 ```
 
